@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://vanessajackbjy898.github.io/vanessajackbjy898_github_io_zp528_12.txt
+Sitemap: https://vanessajackbjy898.github.io/vanessajackbjy898_github_io_zp528_17.txt
+Sitemap: https://vanessajackbjy898.github.io/vanessajackbjy898_github_io_zp528_21.txt
+Sitemap: https://vanessajackbjy898.github.io/vanessajackbjy898_github_io_zp528_26.txt
+Sitemap: https://vanessajackbjy898.github.io/vanessajackbjy898_github_io_zp528_5.txt
